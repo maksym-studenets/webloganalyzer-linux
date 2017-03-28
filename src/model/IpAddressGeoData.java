@@ -4,7 +4,7 @@ import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 /**
- * Created by maksym on 27.03.17.
+ * Represents geographical data for a specific IP address
  */
 public class IpAddressGeoData {
     @SerializedName("ip")
